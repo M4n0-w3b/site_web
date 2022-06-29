@@ -1,8 +1,6 @@
 body{
     width: auto;
     height: auto;
-    background-image: url(../img/brake.jpg);
-    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
 }
